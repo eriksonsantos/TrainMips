@@ -1,1 +1,1 @@
-# mips
+# Train MIPS architecture
